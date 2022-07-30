@@ -1,1 +1,3 @@
+In this project we work on a dataset about weather. We answer several questions using the provided data. I have reproduced the work done in the following video. I have got the dataset and questions from this video and tried to answer the questions my way. I am sharing my work here. Hope it helps others...
+
 https://www.youtube.com/watch?v=4hYOkHijtNw&list=PLy3lFw0OTlutzXFVwttrtaRGEEyLEdnpy&index=1&t=2385s
